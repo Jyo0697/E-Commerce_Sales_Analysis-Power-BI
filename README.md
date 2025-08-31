@@ -16,7 +16,7 @@ The dashboard allows businesses to make **data-driven decisions** by tracking ke
 **## 🚀 How to Use**
 1. Clone this repository:
    ```bash
-  https://github.com/Jyo0697/Ecommerce-Dashboard.git
+https://github.com/Jyo0697/E-Commerce_Sales_Analysis-Power-BI
 2. Open Ecommerce dashboard.pbix in Power BI Desktop.
 3. Connect to the datasets in the data/ folder if required.
 4. Explore interactive dashboards.
